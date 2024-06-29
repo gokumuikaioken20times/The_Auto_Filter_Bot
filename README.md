@@ -34,8 +34,6 @@
 
 Join My <a href='https://telegram.dog/Cartoon_Carnival'>Update Channel</a> For More Update Regarding Repo.</b>
 
-### How To Deploy : [Video Tutorial](https://youtu.be)
-
 ## Commands
 ```
 • /index - 𝑖𝑛𝑑𝑒𝑥 𝑓𝑖𝑙𝑒 𝑓𝑟𝑜𝑚 𝑦𝑜𝑢𝑟 𝑐ℎ𝑎𝑛𝑛𝑒𝑙
@@ -114,7 +112,7 @@ Join My <a href='https://telegram.dog/Cartoon_Carnival'>Update Channel</a> For M
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
 * `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/I36_OTWvT2w)
+* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI.
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com).
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.</b>
 
@@ -127,7 +125,7 @@ Join My <a href='https://telegram.dog/Cartoon_Carnival'>Update Channel</a> For M
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/gokumuikaioken20times/The_Auto_Filter_Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -139,7 +137,7 @@ Join My <a href='https://telegram.dog/Cartoon_Carnival'>Update Channel</a> For M
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/gokumuikaioken20times/The_Auto_Filter_Bot&branch=Anime Carnival&name=The Auto Filter Bot)
 </details>
 
 <details><summary><b>Deploy To Render</b></summary>
@@ -166,7 +164,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
+<a href="https://render.com/deploy?repo=https://github.com/gokumuikaioken20times/The_Auto_Filter_Bot/tree/Cartoon_Carnival">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
