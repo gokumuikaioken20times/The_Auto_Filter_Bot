@@ -119,7 +119,7 @@ Join My <a href='https://telegram.dog/Cartoon_Carnival'>Update Channel</a> For M
 ### Optional Variables
 * <b>`PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/info.py) for more optional variables.</b>
+* Check [info.py](https://github.com/gokumuikaioken20times/The_Auto_Filter_Bot/blob/Cartoon_Carnival/info.py) for more optional variables.</b>
 
 
 <details><summary><b>Deploy To Heroku</b></summary>
