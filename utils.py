@@ -1,6 +1,6 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit @Cartoon_Carnival
+# Subscribe Telegram Channel For Amazing Bot @Cartoon_Carnival
+# Ask Doubt on telegram @Nobita_MUI
 
 import logging, asyncio, os, re, random, pytz, aiohttp, requests, string, json, http.client
 from info import *
